@@ -110,9 +110,4 @@ You can also run the full test suite in parallel with:
 CTEST_PARALLEL_LEVEL=$(nproc) ctest
 ```
 
-## A tour of execution
 
-To understand how the source code is organized, you should start by reading
-the execution [developer overview](docs/overview.md), which explains how
-execution and consensus fit together, and where in the source tree you can
-find different pieces of functionality.
